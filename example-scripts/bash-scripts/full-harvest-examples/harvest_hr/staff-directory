@@ -1,0 +1,1186 @@
+						
+						
+
+												
+
+								
+						
+												
+
+
+
+
+												
+
+
+
+
+
+		
+												
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="shortcut icon" href="http://federation.edu.au/__data/assets/file/0019/132562/favicon.ico?v=0.0.2">
+
+        <title>
+            Staff directory - Federation University Australia         </title>
+
+        <link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0018/131490/normalise.min.css?v=0.0.2">
+        <link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0005/183263/flexslider.css?v=0.1.3">
+		<link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0007/131488/main.css?v=0.0.238">
+        <link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0006/131496/scroller.css?v=0.0.81">
+                
+						<link rel="stylesheet" type="text/css" href="http://federation.edu.au/_designs/faculties-css/health.css?v=0.1.2" />						
+             
+        <link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0003/131493/responsive.css?v=0.0.285">
+        <link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0010/131887/jquery.fancybox.css?v=0.0.3">
+
+        <!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0004/131485/ie.css?v=0.0.28">
+        <script src="http://federation.edu.au/__data/assets/js_file/0005/131486/IE9.js?v=0.0.2"></script>
+        <script src="http://federation.edu.au/__data/assets/js_file/0020/131492/respond-1.1.0.min.js?v=0.0.2"></script>
+        <![endif]-->
+
+        <link rel="stylesheet" href="http://federation.edu.au/__data/assets/css_file/0005/159548/print.css?v=0.0.4" media="print">
+
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0006/131487/jquery-1.10.1.min.js?v=0.0.2"></script>
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0011/131888/jquery.fancybox.pack.js?v=0.0.2"></script>
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0003/131889/jquery.fancybox-media.js?v=0.0.2"></script>
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0004/133186/responsive.js?v=0.0.94"></script>
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0003/174621/scroller.js?v=0.0.5"></script>
+		<script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0004/183262/jquery.flexslider-min.js?v=0.1.1"></script>
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0018/131481/functions.js?v=0.0.68"></script>
+		<script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0008/192797/galleries.js?v=0.1.21"></script>
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0015/132522/cse-init.js?v=0.0.12"></script>
+        <script type="text/javascript" src="http://federation.edu.au/__data/assets/js_file/0004/134761/analytics.js?v=0.0.8"></script>
+
+        
+						
+						
+						
+<!-- Global //-->
+
+<!-- Page Information //-->
+<meta name="Keywords" content="Health Sciences All Staff" />
+<meta name="Description" content="Health Sciences All Staff" />
+
+<!-- Global //-->
+<meta name="DC.Title" content="Staff directory" />
+<meta name="DC.Date.created" content="01/06/2012 15:31:24" />
+<meta name="DC.Date.modified" content="25/09/2014 16:46:13" />
+<meta name="DC.Creator" content="Alan Penhall" />
+<meta name="DC.Subject" content="Health Sciences All Staff" />
+<meta name="DC.Description" content="Health Sciences All Staff" />
+<meta name="DC.Type" content="Text" />
+<meta name="DC.Format" content="HTML" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Contributor" content="Federation University Australia" />
+<meta name="DC.Identifier" content="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory" />
+<meta name="DC.Publisher" content="Federation University Australia" />
+<meta name="DC.Rights" content="" />
+<meta name="google-site-verification" content="QGJGokDdA9UwmLBeelvtyK4Npdtc1CM8lNcA_pNFsOs" />
+<meta name="robots" content="noodp" />
+
+
+						
+    
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 21 October 2014 14:19:23
+-->
+
+
+
+</head>
+
+    <body class="          lhs
+      ">
+        <!--[if lte IE 6]>    <div class="ie6 no-js"> <![endif]-->
+        <!--[if IE 7]>    <div class="ie7 no-js"> <![endif]-->
+        <!--[if IE 8]>    <div class="ie8 no-js"> <![endif]-->
+        <!--[if gt IE 8]><!-->
+        <div class="no-js">
+        <!--<![endif]-->
+        <!-- header -->
+                        <div id="header-wrapper">
+                <header id="header">
+                    <h1><a href="http://federation.edu.au"><img src="http://federation.edu.au/__data/assets/image/0007/131479/feduni-logo.gif?v=0.46.3" alt="">Federation University Australia</a></h1>                    
+												
+						<nav id="meta-links">
+	<a href="#" class="menu-toggle">Menu</a>
+	<span class="meta-links-top"><a href="#content" class="skip-content">Skip to content</a>
+	<a href="http://federation.edu.au/students">Students</a></span>
+	<span class="meta-links-bottom"><a href="http://federation.edu.au/staff">Staff</a>
+	<a href="http://federation.edu.au/library">Library</a>
+<a href="http://feduni.custhelp.com/app/home">Ask&nbsp;FedUni</a>
+</span></nav>						
+
+                    <div id="search-mini">
+                        <form method="GET" action="http://search.federation.edu.au" name="search-cse-box">
+                            <input type="hidden" name="cx" value="009811754837400536849:-awktgph2ps" />
+                            <input type="hidden" name="cof" value="FORID:10" />
+                            <input type="hidden" name="ie" value="UTF-8" />
+                            <div>
+                                <label for="search-mini-query" style="display: none;">Search</label><span class="search-input">
+                                    <input type="search" name="q" autocomplete="off" id="search-mini-query" data-default-text="Search this site" class="user-input" title="Search this site">
+                                </span><span class="search-button">
+                                    <input type="submit" name="submit" id="search-mini-submit" value="Search">
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </header>
+            </div>
+            <div id="nav-wrapper">
+                <nav id="nav-main">
+                    <ul>
+                        		
+												
+						
+					                                <li>
+                                    <a class="" href="http://federation.edu.au/future-students">Future students</a><span class="expand">Expand</span>
+                                    <div>
+                                        							
+                                            <ul>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni">Study at FedUni</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/which-course">Which course?</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/why-choose-feduni">Why choose FedUni?</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/online-learning">Online learning</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/pathways">Pathways</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/information-sessions-and-events">Info sessions and events </a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/scholarships">Scholarships</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/student-support">Student support</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/info-day">Info Day for Change of Preference</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/study-at-feduni/apply">Apply</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/future-students/life-at-feduni">Life at FedUni</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/life-at-feduni/starting">Starting</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/life-at-feduni/orientation">Orientation</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/life-at-feduni/accommodation">Accommodation</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/life-at-feduni/campuses">Campuses</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/future-students/information-for">Information for...</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/information-for/information-for-parents">Parents</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/information-for/information-for-schools">Schools and careers advisors </a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/information-for/information-for-mature-age-students">Mature-age students</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/information-for/indigenous-students">Indigenous students</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/information-for/deferred-students">Deferred students</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/information-for/regional-students">Regional students</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/future-students/contact-us">Contact us</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/contact-us/ballarat">Ballarat</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/contact-us/gippsland">Gippsland</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/contact-us/wimmera">Wimmera</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/future-students/contact-us/ask-feduni">Ask FedUni</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                            </ul>
+                                        
+						
+                                    </div>
+                                </li>
+                                                            <li>
+                                    <a class="" href="http://federation.edu.au/international">International</a><span class="expand">Expand</span>
+                                    <div>
+                                        							
+                                            <ul>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/international/study-at-feduni">Study at FedUni</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/study-at-feduni/programs-and-courses">Programs and fees</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/study-at-feduni/english-and-academic-preparation-programs">English and Academic Preparation programs</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/study-at-feduni/applications-and-admissions">Applications and admissions</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/study-at-feduni/why-choose-feduni">Why choose FedUni?</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/study-at-feduni/agent-network">Agent network</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/study-at-feduni/apply">Apply</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/international/life-at-feduni">Life at FedUni</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/life-at-feduni/starting">Starting</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/life-at-feduni/international-student-support">International student support</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/life-at-feduni/accommodation">Accommodation</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/life-at-feduni/campuses">Campuses</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/international/education-partnerships">Education partnerships</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/education-partnerships/current-partners">Current onshore partners</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/education-partnerships/current-offshore-partners">Current offshore partners</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/education-partnerships/prospective-partners">Prospective partners</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/education-partnerships/study-abroad-and-exchange-programs">Study abroad and exchange programs</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/education-partnerships/our-staff">Our staff</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/international/contact-us">Contact us</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/contact-us/frequently-asked-questions">Frequently asked questions</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/international/contact-us/chinese-language-website">Chinese language website</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                            </ul>
+                                        
+						
+                                    </div>
+                                </li>
+                                                            <li>
+                                    <a class="" href="http://federation.edu.au/research-and-innovation">Research and innovation</a><span class="expand">Expand</span>
+                                    <div>
+                                        							
+                                            <ul>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees">Research degrees</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees/programs-and-courses">Programs and courses</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees/why-research-at-feduni">Why research at FedUni?</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees/scholarships">Scholarships</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees/apply">Apply</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees/current-students">Current students</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees/research-conference">Research conference</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-degrees/contact-us">Contact us</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-areas">Research areas</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-areas/research-centres-and-networks">Research centres and networks</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-support">Research support</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-support/ethics">Ethics</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-support/research-data-management">Resources and documents </a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-support/research-performance">Research performance</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-funding">Research funding</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-funding/important-arcnhmrc-workshop-dates">Funding workshops and sessions</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-funding/important-funding-application-dates">Funding application dates</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-funding/grants-forms">Grant forms</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/research-and-innovation/research-funding/finance">Research finance</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                            </ul>
+                                        
+						
+                                    </div>
+                                </li>
+                                                            <li>
+                                    <a class="" href="http://federation.edu.au/industry-and-community">Industry and community</a><span class="expand">Expand</span>
+                                    <div>
+                                        							
+                                            <ul>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/industry-and-community/partnerships">Partnerships</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/partnerships/technology-park">Ballarat Technology Park</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/partnerships/centres-and-groups">Centres and groups</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/partnerships/industry-placement-program">Industry Placement Program</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/partnerships/industry-skills-centre">Industry Skills Centre</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/industry-and-community/engagement">Engagement</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/engagement/commercial-services-unit">Commercial Services</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/engagement/gippsland-access-and-participation-gap-project">Gippsland Access and Participation (GAP)</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/engagement/fire-conference">Living with Bushfire</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/engagement/sponsorships">Sponsorships</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/engagement/timor">Timor-Leste program</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/industry-and-community/foundation">Giving to FedUni</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/foundation/about-feduni-foundation">About the Foundation</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/foundation/supporting-the-foundation">Supporting the Foundation</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/foundation/testimonials">Testimonials</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/foundation/contact-feduni-foundation">Contact the Foundation</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni">Alumni</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/alumni-competition">Alumni competition</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/update-alumni-details">Join or update alumni details</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/my-alumni-centre">my Alumni Centre</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/about-alumni">About alumni</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/newsletters">Alumni newsletters</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/success-stories">Alumni profiles</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/alumni-volunteers">Alumni volunteers</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/industry-and-community/alumni/contact-us">Contact alumni office</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                            </ul>
+                                        
+						
+                                    </div>
+                                </li>
+                                                            <li>
+                                    <a class="" href="http://federation.edu.au/about-feduni">About FedUni</a><span class="expand">Expand</span>
+                                    <div>
+                                        							
+                                            <ul>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university">Our University</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/welcome-from-the-vice-chancellor">Welcome from the VC</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/a-new-era-in-education">A new era in education</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/careers@feduni">Careers@FedUni</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/indigenous-matters">Indigenous matters</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/history">Our history</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/biographies">Our leadership</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/portfolios">Portfolios and offices</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-university/sustainability">Sustainability</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/governance/legal/social-media">Social media</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/staff/governance">Our governance</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/governance/academic-board">Academic Board</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/governance/feduni-council">Council</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/governance/legal">Legal</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/governance/plans-publications-policies">Plans, publications and policies</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/governance/projects">Projects</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/governance/quality">Quality</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses">Our campuses</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses/mt-helen-campus">Mt Helen</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses/smb-campus">SMB</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses/camp-st-campus">Camp St</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses/gippsland-campus">Gippsland</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses/horsham-campus">Horsham</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses/ararat-campus">Ararat</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/our-campuses/stawell-campus">Stawell</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                                    <li>
+                                                        <a class="" href="http://federation.edu.au/about-feduni/facilities-and-services">Our facilities and services</a><span class="expand">Expand</span>
+                                                        							
+                                                            <ul>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/facilities-and-services/campus-life">Campus Life</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/about-feduni/facilities-and-services/ict-support">ICT support</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                                    <li>
+                                                                        <a class="" href="http://federation.edu.au/staff/business-and-communication/timetables">Timetables and room bookings</a><span class="expand">Expand</span>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        
+						
+                                                    </li>
+                                                                                            </ul>
+                                        
+						
+                                    </div>
+                                </li>
+                            						
+						
+                    </ul>
+                </nav>
+            </div>
+            <div class="banner"></div>
+            <!-- /header -->
+            
+            <div id="page-wrapper">
+                <div id="page-inner-wrapper">
+                    
+                    <section id="page">
+                        <!--BEGIN PAGE CONTENT-->
+                        
+						
+						
+						
+                            <section id="breadcrumb">
+                                                                    <a href="http://federation.edu.au">Federation University Australia </a>
+                                                                &gt;
+                                                                <a href="http://federation.edu.au/faculties-and-schools">Faculties and Schools</a>
+                                                                &gt;
+                                                                <a href="http://federation.edu.au/faculties-and-schools/faculty-of-health">Faculty of Health</a>
+                                                                &gt;
+                                                                <a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology">School of Health Sciences and Psychology</a>
+                                                                &gt;
+                                                            Staff directory                            </section>
+                        
+						
+
+                                <aside id="lhs">
+            
+						
+					
+    <section id="nav-lhs">
+        
+        
+        
+        
+        
+        <ul>
+                <li>
+            <a class=" " href="http://federation.edu.au/faculties-and-schools/federation-business-school">
+            Federation Business School            </a>
+
+            							
+        </li>
+                <li>
+            <a class=" " href="http://federation.edu.au/faculties-and-schools/faculty-of-education-and-arts">
+            Faculty of Education and Arts            </a>
+
+            							
+        </li>
+                <li>
+            <a class="parent " href="http://federation.edu.au/faculties-and-schools/faculty-of-health">
+            Faculty of Health            </a>
+
+            							
+
+                <ul>
+                    <!-- Beging Level 2-->
+                                            <li>
+                            <a class="parent" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology">
+                            School of Health Sciences and Psychology                            </a>
+                            							
+
+                                <ul>
+                                    <!-- Beging Level 3-->
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/clinics">
+                                            Clinics and services                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/partnerships">
+                                            Community engagement                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/health-sciences">
+                                            Health sciences                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/human-movement-and-sport-sciences">
+                                            Human movement and sports sciences                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/occupational-health-and-safety-viosh">
+                                            Occupational (work) health and safety (VIOSH)                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/psychology2">
+                                            Psychology                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/research">
+                                            Research                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/school-of-health-sciences-scholarships">
+                                            Scholarships                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="current" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory">
+                                            Staff directory                                            </a>
+                                            							
+
+                                                <ul>
+                                                    <!-- Beginning Level 4 -->
+                                                                                                            <li>
+                                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/administration"><span class="arrow">&rsaquo;</span>
+                                                            Administration                                                            </a>
+                                                            							
+                                                        </li>
+                                                                                                            <li>
+                                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/fitness-and-massage"><span class="arrow">&rsaquo;</span>
+                                                            Fitness and massage                                                            </a>
+                                                            							
+                                                        </li>
+                                                                                                            <li>
+                                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/human-movement-and-sport-sciences"><span class="arrow">&rsaquo;</span>
+                                                            Human movement and sport sciences                                                            </a>
+                                                            							
+                                                        </li>
+                                                                                                            <li>
+                                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/psychology"><span class="arrow">&rsaquo;</span>
+                                                            Psychology                                                            </a>
+                                                            							
+                                                        </li>
+                                                                                                            <li>
+                                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/viosh"><span class="arrow">&rsaquo;</span>
+                                                            VIOSH                                                            </a>
+                                                            							
+                                                        </li>
+                                                                                                        <!-- End Level 4-->
+                                                </ul>
+                                            
+						
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-resources2">
+                                            Staff resources                                            </a>
+                                            							
+                                        </li>
+                                                                            <li>
+                                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/student-resources">
+                                            Student resources                                            </a>
+                                            							
+                                        </li>
+                                                                        <!-- End Level 3-->
+                                </ul>
+                            
+						
+                        </li>
+                                            <li>
+                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-nursing-midwifery-and-healthcare">
+                            School of Nursing, Midwifery and Healthcare                            </a>
+                            							
+                        </li>
+                                            <li>
+                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/about-us">
+                            About us                            </a>
+                            							
+                        </li>
+                                            <li>
+                            <a class="" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/contact-us">
+                            Contact us                            </a>
+                            							
+                        </li>
+                                        <!-- End Level 2-->
+                </ul>
+            
+						
+        </li>
+                <li>
+            <a class=" " href="http://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology">
+            Faculty of Science and Technology            </a>
+
+            							
+        </li>
+                <li>
+            <a class=" " href="http://federation.edu.au/faculties-and-schools/industry-skills-centre">
+            Industry Skills Centre            </a>
+
+            							
+        </li>
+                <li>
+            <a class=" " href="http://federation.edu.au/faculties-and-schools/federation-college">
+            Federation College            </a>
+
+            							
+        </li>
+            </ul>
+    </section>
+
+						
+						
+            
+            </aside>
+                                    <hgroup class="section-title">
+                           <h2 class="sub-section">School of Health Sciences and Psychology</h2>
+                            <h1 class="section">Faculty of Health</h1>
+            </hgroup>
+                                                    <section id="content-wrapper">
+                            <section id="content">
+                                        <h1>
+        Staff directory        </h1>
+                                                                    
+<div id="staff_page">
+<h2>Senior management</h2>
+
+<table id="Senior management staff" width="100%" cellpadding="5">
+  <thead>
+    <tr>
+      <th id="Senior management staff_td0_0" align="left">Name</th>
+
+      <th id="Senior management staff_td0_1" align="left">Title and section/area</th>
+
+      <th id="Senior management staff_td0_2" align="left">Email</th>
+
+      <th id="Senior management staff_td0_3" align="left">Location</th>
+
+      <th id="Senior management staff_td0_4" align="left">Phone</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td headers="Senior management staff_td0_0" id="Senior management staff_td1_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/staff-directory/paliadelis,-penny-prof.">Paliadelis, Penelope (Prof)</a></td>
+
+      <td headers="Senior management staff_td0_1" id="Senior management staff_td1_1">Professor and Executive Dean</td>
+
+      <td headers="Senior management staff_td0_2" id="Senior management staff_td1_2"><a href="mailto:p.paliadelis@federation.edu.au">p.paliadelis@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3" id="Senior management staff_td1_3">Mt Helen H118</td>
+
+      <td headers="Senior management staff_td0_4" id="Senior management staff_td1_4">52379242</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/staff-directory/martin,-prof-peter">Martin, Peter (Assoc Prof)</a></td>
+
+      <td headers="Senior management staff_td0_1">Head of School, School of Health Sciences and Psychology</td>
+
+      <td headers="Senior management staff_td0_2"><a href="mailto:peter.martin@federation.edu.au">peter.martin@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3">Mt Helen P921</td>
+
+      <td headers="Senior management staff_td0_4">53279229</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0" id="Senior management staff_td2_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/staff-directory/blitvich,-jenny-assoc-prof">Blitvich, Jenny<br />
+      (Assoc Prof)</a></td>
+
+      <td headers="Senior management staff_td0_1" id="Senior management staff_td2_1">Deputy Head of School, School of Health Sciences and Psychology</td>
+
+      <td headers="Senior management staff_td0_2" id="Senior management staff_td2_2"><a href="mailto:j.blitvich@federation.edu.au" target="_blank">j.blitvich@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3" id="Senior management staff_td2_3">Mt Helen H132</td>
+
+      <td headers="Senior management staff_td0_4" id="Senior management staff_td2_4">53279690</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-nursing-midwifery-and-healthcare/staff-directory/staff-profiles/taylor,-beverley-dr">Taylor, Beverley (Prof)</a></td>
+
+      <td headers="Senior management staff_td0_1">Head of School, School of Nursing, Midwifery and Healthcare</td>
+
+      <td headers="Senior management staff_td0_2"><a href="mailto:beverely.taylor@federation.edu.au">beverely.taylor@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3">Mt Helen S234 &amp; Gippsland 2W260</td>
+
+      <td headers="Senior management staff_td0_4">51226130</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0" id="Senior management staff_td3_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/staff-directory/penney,-dr-wendy">Penney, Wendy (Dr)</a></td>
+
+      <td headers="Senior management staff_td0_1" id="Senior management staff_td3_1">Deputy Head of School, School of Nursing, Midwifery and Healthcare</td>
+
+      <td headers="Senior management staff_td0_2" id="Senior management staff_td3_2"><a href="mailto:wendy.penney@federation.edu.au">wendy.penney@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3" id="Senior management staff_td3_3">Mt Helen H119</td>
+
+      <td headers="Senior management staff_td0_4" id="Senior management staff_td3_4">53276223</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0" id="Senior management staff_td5_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/staff-directory/pascoe,-deborah-assoc-dean">Pascoe, Deborah</a></td>
+
+      <td headers="Senior management staff_td0_1" id="Senior management staff_td5_1">Associate Dean Clinical and Workplace Learning</td>
+
+      <td headers="Senior management staff_td0_2" id="Senior management staff_td5_2"><a href="mailto:d.pascoe@federation.edu.au" target="_blank">d.pascoe@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3" id="Senior management staff_td5_3">Mt Helen P910</td>
+
+      <td headers="Senior management staff_td0_4" id="Senior management staff_td5_4">53279688</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0" id="Senior management staff_td7_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/staff-directory/miller,-dr-charlynn">Miller, Charlynn (Dr)</a></td>
+
+      <td headers="Senior management staff_td0_1" id="Senior management staff_td7_1">Associate Dean Engagement</td>
+
+      <td headers="Senior management staff_td0_2" id="Senior management staff_td7_2"><a href="mailto:c.miller@federation.edu.au">c.miller@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3" id="Senior management staff_td7_3">Mt Helen</td>
+
+      <td headers="Senior management staff_td0_4" id="Senior management staff_td7_4">53279545</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-nursing-midwifery-and-healthcare/staff-directory/staff-profiles/lyons,-judith-dr">Lyons, Judith (Dr)</a></td>
+
+      <td headers="Senior management staff_td0_1">Associate Dean of Learning and Teaching</td>
+
+      <td headers="Senior management staff_td0_2"><a href="mailto:judith.lyons@federation.edu.au">judith.lyons@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3">Gippsland 2W244</td>
+
+      <td headers="Senior management staff_td0_4">51226681</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0" id="Senior management staff_td8_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-nursing-midwifery-and-healthcare/staff-directory/staff-profiles/wood,-pamela-dr">Wood, Pamela<br />
+      (Assoc Prof)</a></td>
+
+      <td headers="Senior management staff_td0_1" id="Senior management staff_td8_1">Associate Dean Research</td>
+
+      <td headers="Senior management staff_td0_2" id="Senior management staff_td8_2"><a href="mailto:pamela.wood@federation.edu.au">pamela.wood@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3" id="Senior management staff_td8_3">Mt Helen S234 &amp; Gippsland 2W249</td>
+
+      <td headers="Senior management staff_td0_4" id="Senior management staff_td8_4">51226670</td>
+    </tr>
+
+    <tr>
+      <td headers="Senior management staff_td0_0" id="Senior management staff_td9_0"><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/staff-directory/di-gregorio,-kate">Di Gregorio, Kate</a></td>
+
+      <td headers="Senior management staff_td0_1" id="Senior management staff_td9_1">Faculty Business Manager</td>
+
+      <td headers="Senior management staff_td0_2" id="Senior management staff_td9_2"><a href="mailto:k.digregorio@federation.edu.au">k.digregorio@federation.edu.au</a></td>
+
+      <td headers="Senior management staff_td0_3" id="Senior management staff_td9_3">Mt Helen H117</td>
+
+      <td headers="Senior management staff_td0_4" id="Senior management staff_td9_4">53279601</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<div class="tile-2-layout"><div style="display: block">
+<a class="tile tile-pos-1" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/administration">Administration</a>
+<a class="tile tile-pos-0" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/fitness-and-massage">Fitness and massage</a>
+<a class="tile tile-pos-1" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/human-movement-and-sport-sciences">Human movement and sport sciences</a>
+<a class="tile tile-pos-0" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/psychology">Psychology</a>
+<a class="tile tile-pos-1" href="http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health-sciences-and-psychology/staff-directory/viosh">VIOSH</a>
+
+</div>
+</div>
+
+                            </section>
+                        </section>
+                        
+                        <section id="sub-footer">
+                            
+												
+						<div id="pf-search">
+	<h2>Courses to study</h2>
+	<form action="http://programfinder.federation.edu.au/ProgramFinder/">
+		<span class="pfsearch-input"><input type="text" name="query" id="pf-query" data-default-text="e.g. Business" class="textbox user-input" title="Search for a course"></span><span class="pfsearch-button"><input type="submit" name="submit" value="Search" class="button"></span> 
+	</form>
+	<a class="apply-button track_application" href="https://apply.federation.edu.au/">Apply now</a>
+
+</div>						
+                            
+												
+						<a id="feduni-logo" href="/"><img src="/__data/assets/image/0017/131354/feduni-logo-sml.gif" alt="Federation University Australia"></a><span>Copyright Federation University Australia<br>
+ABN 51 818 692 256 | CRICOS provider number 00103D</span>						
+                        </section>
+                        <!--END PAGE CONTENT-->
+                    </section>
+                </div>
+            </div>
+            
+            <!-- footer -->
+            <div id="footer-wrapper">
+                <footer id="footer">
+                    <nav id="nav-footer">
+                        
+												
+						<ul>
+  <li>Quick links
+
+    <ul>
+      <li><a href="https://apply.federation.edu.au/">Apply online</a></li>
+
+      <li><a href="http://programfinder.federation.edu.au/ProgramFinder/">Program Finder</a></li>
+
+      <li><a href="http://federation.edu.au/students/getting-started-at-feduni/scholarships">Scholarships</a></li>
+
+      <li><a href="http://federation.edu.au/about-feduni/our-campuses">Campuses</a></li>
+
+      <li><a href="http://federation.edu.au/about-feduni/our-university/indigenous-matters">Indigenous matters</a></li>
+
+      <li><a href="http://federation.edu.au/news">News</a></li>
+
+      <li><a href="http://federation.edu.au/news/events">Events</a></li>
+    </ul>
+  </li>
+
+  <li>
+    <a href="http://federation.edu.au/faculties-and-schools">Faculties and Schools</a>
+
+    <ul>
+      <li><a href="http://federation.edu.au/faculties-and-schools/federation-business-school">Federation Business School</a></li>
+
+      <li><a href="http://federation.edu.au/faculties-and-schools/faculty-of-education-and-arts">Faculty of Education and Arts</a></li>
+
+      <li><a href="http://federation.edu.au/faculties-and-schools/faculty-of-health">Faculty of Health</a></li>
+
+      <li><a href="http://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology">Faculty of Science and Technology</a></li>
+
+      <li><a href="http://federation.edu.au/faculties-and-schools/industry-skills-centre">Industry Skills Centre</a></li>
+
+      <li><a href="http://federation.edu.au/faculties-and-schools/federation-college">Federation College</a></li>
+    </ul>
+  </li>
+
+  <li>Login to
+
+    <ul>
+      <li><a href="http://mysc.federation.edu.au/" target="_blank">my Student Centre</a></li>
+
+      <li><a href="http://federation.edu.au/office365" target="_blank">Student Webmail</a></li>
+
+      <li><a href="http://moodle.federation.edu.au/" target="_blank">Moodle (HE)</a></li>
+
+      <li><a href="http://vetmoodle.federation.edu.au/" target="_blank">Moodle (VET)</a></li>
+
+      <li><a href="https://eportfolios.federation.edu.au/" target="_blank">ePortfolios</a></li>
+
+      <li><a href="https://outlook.uob.ballarat.edu.au/owa/" target="_blank">Staff Outlook Webmail</a></li>
+
+      <li><a href="https://norm.federation.edu.au/cgi-bin/passchange.exe" target="_blank">Change password</a></li>
+
+      <li><a href="https://ubias.federation.edu.au/WEBUBIAS/Ubias-Status.jsp" target="_blank">Internet access (UBIAS)</a></li>
+    </ul>
+  </li>
+
+  <li>
+    <a href="http://federation.edu.au/future-students/contact-us">Contact us</a>
+
+    <ul>
+      <li><a href="http://careers.federation.edu.au/" target="_blank">Careers</a></li>
+
+      <li><a href="http://federation.edu.au/staff-directory">Staff directory</a></li>
+
+      <li><a href="http://federation.edu.au/about-feduni/facilities-and-services">Facilities and services</a></li>
+
+      <li><a href="http://federation.edu.au/students/essential-info/administration/emergency-and-security">Emergency and security<br /></a></li>
+    </ul>
+  </li>
+</ul>
+						
+                        <section id="social">
+                            
+												
+						<a class="track_social youtube" target="_blank" href="http://www.youtube.com/user/FedUniAustralia">YouTube</a> <a class="track_social instagram" target="_blank" href="http://www.instagram.com/FedUniAustralia">Instagram</a> <a class="track_social facebook" target="_blank" href="http://www.facebook.com/FedUniAustralia">Facebook</a> <a class="track_social twitter" target="_blank" href="http://www.twitter.com/FedUniAustralia">Twitter</a>						
+                        </section>
+
+                    </nav>
+
+                    
+												
+						
+<div id="page-meta">
+<span class="pageid"><strong>Page ID:</strong> 53508</span><span class="updated"><strong>Last Updated:</strong> 25 September 2014</span><span class="authorisedby"><strong>Authorised by:</strong> Executive Dean, Faculty of Health</span><span class="contentcoordinator"><strong>Content Coordinator:</strong> Alan Penhall</span>
+<span class="sitemap"><a href="http://federation.edu.au/sitemap">Sitemap</a></span><span class="privacy"><a href="http://federation.edu.au/privacy">Privacy</a></span><span class="accessibility"><a href="http://federation.edu.au/accessibility">Accessibility</a></span><span class="web-feedback"><a href="http://federation.edu.au/web-feedback?refid=53508">Web&nbsp;feedback</a></span>
+
+</div>
+						
+                </footer>
+            </div>
+        <!-- /footer -->
+        </div>
+        
+    
+
+</body>
+</html>
