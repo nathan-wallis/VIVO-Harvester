@@ -29,6 +29,9 @@ public class XMLRecordOutputStream extends OutputStream implements Cloneable {
 	 * the byte array that represent a closing record tag
 	 */
 	private byte[][] closeTags;
+	/**
+	 * the byte array that represent a opening record tag
+	 */
 	private byte[][] openTags;
 	/**
 	 * Regex to find the identifing data in the record data
