@@ -11,7 +11,7 @@ export DATE=`date +%Y-%m-%d'T'%T`
 
 #	included within the classpath and the path environment variables.
 export PATH=$PATH:$HARVESTER_INSTALL_DIR/bin
-export CLASSPATH=$CLASSPATH:$HARVESTER_INSTALL_DIR/bin/harvester.jar:$HARVESTER_INSTALL_DIR/bin/dependency/*
+#export CLASSPATH=$CLASSPATH:$HARVESTER_INSTALL_DIR/bin/harvester.jar:$HARVESTER_INSTALL_DIR/bin/dependency/*
 export CLASSPATH=$CLASSPATH:$HARVESTER_INSTALL_DIR/build/harvester.jar:$HARVESTER_INSTALL_DIR/build/dependency/*
 echo $CLASSPATH;
 
