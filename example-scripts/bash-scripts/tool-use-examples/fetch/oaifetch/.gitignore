@@ -1,1 +1,4 @@
-data
+*.swp
+/logs
+/data
+/previous-harvest
