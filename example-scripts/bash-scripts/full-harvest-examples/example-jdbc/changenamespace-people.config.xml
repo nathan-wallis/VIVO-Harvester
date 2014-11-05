@@ -35,7 +35,7 @@
 <%      into.                                                                                                         %>
 -->  
 	<Param name="oldNamespace">http://vivoweb.org/harvest/example/jdbc/person/</Param>
-	<Param name="newNamespace">http://vivo.sample.edu/individual/</Param>
+  <Param name="newNamespace">http://localhost.ubuntu:8080/vivo/individual/</Param>
 	<!-- 
 <%   <Param name="errorLogging"> This parameter determines if a change in namespace will produce an error message. If %>
 <%      a change in the namespace should not be happening then this flag should be enabled.                           %>

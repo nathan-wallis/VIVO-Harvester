@@ -23,6 +23,7 @@
 	xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'>
 <!--
 	xmlns:db-people="jdbc:jtds:sqlserver://erp-prod-odbc.ad.ufl.edu:1433/ODBCWH;domain=UFAD/fields/people/"
+      </xsl:if>
 	xmlns:db-positions="jdbc:jtds:sqlserver://erp-prod-odbc.ad.ufl.edu:1433/ODBCWH;domain=UFAD/fields/positions/"
 -->
 	<!-- This will create indenting in xml readers -->

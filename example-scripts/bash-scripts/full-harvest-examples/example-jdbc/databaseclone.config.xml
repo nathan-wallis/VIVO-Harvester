@@ -32,7 +32,7 @@
 	<Param name="inputDriver">com.mysql.jdbc.Driver</Param>
 	<Param name="inputConnection">jdbc:mysql://127.0.0.1:3306/demodb</Param>
 	<Param name="inputUsername">demodb</Param>
-	<Param name="inputPassword">demodb</Param>
+	<Param name="inputPassword">testDatabase123</Param>
 	
 	<!--  OUTPUT -->
 <!-- 

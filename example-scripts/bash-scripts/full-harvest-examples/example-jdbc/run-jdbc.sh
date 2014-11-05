@@ -12,7 +12,7 @@
 #	Since it is also possible the harvester was installed by
 #	uncompressing the tar.gz the setting is available to be changed
 #	and should agree with the installation location
-HARVESTER_INSTALL_DIR=/usr/share/vivo/harvester
+HARVESTER_INSTALL_DIR=/home/nathanwallis/Desktop/vivo_harvester_github
 export HARVEST_NAME=example-jdbc
 export DATE=`date +%Y-%m-%d'T'%T`
 
@@ -23,7 +23,6 @@ export DATE=`date +%Y-%m-%d'T'%T`
 export PATH=$PATH:$HARVESTER_INSTALL_DIR/bin
 export CLASSPATH=$CLASSPATH:$HARVESTER_INSTALL_DIR/bin/harvester.jar:$HARVESTER_INSTALL_DIR/bin/dependency/*
 export CLASSPATH=$CLASSPATH:$HARVESTER_INSTALL_DIR/build/harvester.jar:$HARVESTER_INSTALL_DIR/build/dependency/*
-
 # Exit on first error
 # The -e flag prevents the script from continuing even though a tool fails.
 #	Continuing after a tool failure is undesirable since the harvested
