@@ -19,6 +19,10 @@
 			<url>http://mirrors.ibiblio.org/pub/mirrors/maven2</url>
 		</repository>
 		<repository>
+			<id>Maven Repository</id>
+      <url>http://central.maven.org/maven2</url>
+		</repository>
+		<repository>
 			<id>Jenabean</id>
 			<url>http://jenabean.googlecode.com/svn/repo</url>
 		</repository>
@@ -220,21 +224,28 @@
 	</profiles>
 	<dependencies>
 		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.16</version>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
+    <dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
-			<version>1.6.1</version>
+			<version>1.7.7</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>log4j-over-slf4j</artifactId>
-			<version>1.6.1</version>
+			<version>1.7.7</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
-  			<groupId>org.apache.activemq</groupId>
+  		<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-all</artifactId>
  			<version>5.4.3</version>
  			<exclusions>
@@ -465,13 +476,6 @@
 			<version>2.0.0</version>
 			<type>jar</type>
 			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.16</version>
-			<scope>provided</scope>
-			<optional>true</optional>
 		</dependency>
 	</dependencies>
 </project>
